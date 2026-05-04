@@ -1,0 +1,12 @@
+{
+  "name": "spec-driven-development",
+  "version": "1.0.0",
+  "description": "Claude Skills for spec-driven development workflow.",
+  "author": {
+    "name": "Dima Timofeev",
+    "url": "https://dima.us.kg/"
+  },
+  "repository": "https://github.com/CuriousDima/spec-driven-development-skills",
+  "license": "MIT",
+  "keywords": ["spec-driven-development", "sdd", "specifications"]
+}

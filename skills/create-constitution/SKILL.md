@@ -1,6 +1,10 @@
 ---
 name: create-constitution
 description: Start a spec-driven development project constitution by collaboratively drafting specs/mission.md, specs/tech-stack.md, and specs/roadmap.md from stakeholder input and, for existing projects, current codebase reality. Use when a user asks to create, initialize, adopt, or bootstrap an initial project constitution, mission, tech stack, or roadmap for spec-driven development, including greenfield projects and existing projects without a constitution.
+license: MIT
+metadata:
+  author: dima
+  version: "1.0"
 ---
 
 # Create Constitution
